@@ -1,0 +1,19 @@
+{
+    "plugins": ["react"],
+    "settings": {
+      "react": {
+        "version": "detect"
+      }
+    },
+    "extends": ["eslint:recommended", "plugin:react/recommended", "plugin:jest/recommended"],
+    "parser": "babel-eslint",
+    "env": {
+      "browser": true
+    },
+    "rules": {
+      "react/prop-types": "off",
+      "semi": "error",
+      "indent": ["error", 2],
+      "object-curly-spacing": ["warn", "always"]
+    }
+  }
