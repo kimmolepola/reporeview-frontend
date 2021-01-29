@@ -1,6 +1,7 @@
 # Reporeview
 
 Technologies: React Native, Sqlite3, AWS Lambda <br />
+(Using free tier cloud services, please wait for service to wake up, refresh page if necessary) <br />
 Frontend: https://play.google.com/store/apps/details?id=io.expo.makou.repositoryapp <br />
 Frontend source code: https://github.com/kimmolepola/reporeview-frontend <br />
 Backend on AWS (read-only Sqlite3): https://t9pkxiv5gc.execute-api.eu-north-1.amazonaws.com/prod/graphql <br />
